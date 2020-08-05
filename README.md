@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://icongr.am/devicon/twitter-original.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://icongr.am/devicon/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev.to]
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -36,21 +36,22 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://icongr.am/material/language-html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://icongr.am/material/language-css3.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://icongr.am/material/language-javascript.svg" />
-<img align="left" alt="React" width="26px" src="https://icongr.am/material/react.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://icongr.am/material/nodejs.svg" />
-<img align="left" alt="PostGreSQL" width="26px" src="https://icongr.am/devicon/postgresql-plain.svg"/>
-<img align="left" alt="MySQL" width="26px" src="https://icongr.am/devicon/mysql-plain.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://icongr.am/devicon/mongodb-plain.svg" />
-<img align="left" alt="Git" width="26px" src="https://icongr.am/material/git.svg"/>
-<img align="left" alt="GitHub" width="26px" src="https://icongr.am/material/github.svg" />
-<img align="left" alt="Python" width="26px" src="https://icongr.am/material/language-python.svg" />
-<img align="left" alt="Linux" width="26px" src="https://icongr.am/material/ubuntu.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://icongr.am/material/bootstrap.svg" />
-<img align="left" alt="Java" width="26px" src="https://icongr.am/material/language-java.svg" />
-<img align="left" alt="C" width="26px" src="https://icongr.am/material/language-c.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://icongr.am/devicon/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://icongr.am/devicon/css3-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://icongr.am/devicon/javascript-original.svg" />
+<img align="left" alt="React" width="26px" src="https://icongr.am/devicon/react-original-wordmark.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://icongr.am/devicon/nodejs-original.svg" />
+<img align="left" alt="PostGreSQL" width="26px" src="https://icongr.am/devicon/postgresql-original-wordmark.svg"/>
+<img align="left" alt="MySQL" width="26px" src="https://icongr.am/devicon/mysql-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://icongr.am/devicon/mongodb-original-wordmark.svg" />
+<img align="left" alt="Git" width="26px" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
+<img align="left" alt="GitHub" width="26px" src="https://icongr.am/devicon/github-original-wordmark.svg" />
+<img align="left" alt="Python" width="26px" src="https://icongr.am/devicon/python-original.svg" />
+<img align="left" alt="Linux" width="26px" src="https://icongr.am/devicon/ubuntu-original-wordmark.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="Java" width="26px" src="https://icongr.am/devicon/java-original-wordmark.svg" />
+<img align="left" alt="C" width="26px" src="https://icongr.am/devicon/c-original.svg" />
+<img align="left" alt="Heroku" width="26px" src="https://icongr.am/devicon/heroku-original-wordmark.svg" />
 
 <br />
 <br />
