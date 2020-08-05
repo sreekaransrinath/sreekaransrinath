@@ -56,6 +56,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+---
+### Github Stats:
+
+![Karan's Github stats](https://github-readme-stats.vercel.app/api?username=sreekaransrinath&count_private=true&show_icons=true&theme=radical)
 
 [website]: https://sreekaransrinath.github.io
 [twitter]: https://twitter.com/skaranzx16
