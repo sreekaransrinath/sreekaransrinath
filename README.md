@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### Hi there, you can call me [Karan][website]. I solve problems and automate stuff. 👋
 
 ## I'm a Python Developer, Machine Learning Enthusiast, Automation Scripter, Badminton Player, and an EC Undergrad Student
-- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning JS(React + Native), Deep Learning, and Data Science
 - 👯 I’m looking to collaborate on projects based on what I'm learning right now
 - 🥅 2020 Goals: Contribute more to Open Source projects
