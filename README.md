@@ -35,22 +35,22 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />]
-[<img align="left" alt="HTML5" width="26px" src="https://icongr.am/material/language-html5.svg" />]
-[<img align="left" alt="CSS3" width="26px" src="https://icongr.am/material/language-css3.svg" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://icongr.am/material/language-javascript.svg" />]
-[<img align="left" alt="React" width="26px" src="https://icongr.am/material/react.svg" />]
-[<img align="left" alt="Node.js" width="26px" src="https://icongr.am/material/nodejs.svg" />]
-[<img align="left" alt="PostGreSQL" width="26px" src="https://icongr.am/devicon/postgresql-plain.svg"/>]
-[<img align="left" alt="MySQL" width="26px" src="https://icongr.am/devicon/mysql-plain.svg" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://icongr.am/devicon/mongodb-plain.svg" />]
-[<img align="left" alt="Git" width="26px" src="https://icongr.am/material/git.svg"/>]
-[<img align="left" alt="GitHub" width="26px" src="https://icongr.am/material/github.svg" />]
-[<img align="left" alt="Python" width="26px" src="https://icongr.am/material/language-python.svg" />]
-[<img align="left" alt="Linux" width="26px" src="https://icongr.am/material/ubuntu.svg" />]
-[<img align="left" alt="Bootstrap" width="26px" src="https://icongr.am/material/bootstrap.svg" />]
-[<img align="left" alt="Java" width="26px" src="https://icongr.am/material/language-java.svg" />]
-[<img align="left" alt="C" width="26px" src="https://icongr.am/material/language-c.svg" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://icongr.am/material/language-html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://icongr.am/material/language-css3.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://icongr.am/material/language-javascript.svg" />
+<img align="left" alt="React" width="26px" src="https://icongr.am/material/react.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://icongr.am/material/nodejs.svg" />
+<img align="left" alt="PostGreSQL" width="26px" src="https://icongr.am/devicon/postgresql-plain.svg"/>
+<img align="left" alt="MySQL" width="26px" src="https://icongr.am/devicon/mysql-plain.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://icongr.am/devicon/mongodb-plain.svg" />
+<img align="left" alt="Git" width="26px" src="https://icongr.am/material/git.svg"/>
+<img align="left" alt="GitHub" width="26px" src="https://icongr.am/material/github.svg" />
+<img align="left" alt="Python" width="26px" src="https://icongr.am/material/language-python.svg" />
+<img align="left" alt="Linux" width="26px" src="https://icongr.am/material/ubuntu.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://icongr.am/material/bootstrap.svg" />
+<img align="left" alt="Java" width="26px" src="https://icongr.am/material/language-java.svg" />
+<img align="left" alt="C" width="26px" src="https://icongr.am/material/language-c.svg" />
 
 <br />
 <br />
