@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
 <img align="left" alt="GitHub" width="26px" src="https://icongr.am/devicon/github-original-wordmark.svg" />
 <img align="left" alt="Python" width="26px" src="https://icongr.am/devicon/python-original.svg" />
-<img align="left" alt="Linux" width="26px" src="https://icongr.am/devicon/ubuntu-original-wordmark.svg" />
+<img align="left" alt="Linux" width="26px" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="Java" width="26px" src="https://icongr.am/devicon/java-original-wordmark.svg" />
 <img align="left" alt="C" width="26px" src="https://icongr.am/devicon/c-original.svg" />
