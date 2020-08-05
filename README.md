@@ -59,7 +59,9 @@ Here are some ideas to get you started:
 ---
 ### Github Stats:
 
-![Karan's Github stats](https://github-readme-stats.vercel.app/api?username=sreekaransrinath&count_private=true&show_icons=true&theme=radical)
+![Karan's Github stats](https://github-readme-stats.vercel.app/api?username=sreekaransrinath&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekaransrinath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://sreekaransrinath.github.io
 [twitter]: https://twitter.com/skaranzx16
