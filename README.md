@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I'm a Python Developer, Machine Learning Enthusiast, Software Engineer, Automation Scripter, Badminton Player, an EC Undergrad Student, and a Data Scientist in the making.
 - 🌱 I’m currently learning JS(React + Native), Deep Learning, and Data Science
 - 👯 I’m looking to collaborate on projects based on what I'm learning right now
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Use LinkedIn to network a lot more, Contribute more to Open Source projects
 
 ### Connect with me:
 
