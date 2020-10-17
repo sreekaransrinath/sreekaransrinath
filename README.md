@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, you can call me [Karan][website]. I solve problems and automate stuff. 👋
+## Hi there, you can call me [Karan][website] 👋. I enjoy solving problems and automating stuff. 
 
 ### I'm a Python Developer, Machine Learning Enthusiast, Software Engineer, Automation Scripter, Badminton Player, an EC Undergrad Student, and a Data Scientist in the making.
-- 🌱 I’m currently learning JS(React + Native), Deep Learning, and Data Science
+- 🌱 I’m currently learning ReactJS, Deep Learning, and Data Science
 - 👯 I’m looking to collaborate on projects based on what I'm learning right now
 - 🥅 2020 Goals: Use LinkedIn to network a lot more, Contribute more to Open Source projects
+- 🔭 I’m currently working on an easy-to-use Content Delivery System
 
 ### Connect with me:
 
