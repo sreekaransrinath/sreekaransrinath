@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ReactJS, and deep-diving into Deep Learning and Data Science
 - 👯 I’m looking to collaborate on projects based on what I'm learning right now
 - 🥅 2021 Goals: 
-       - Grow my Twitter following and post regular, quality content ([@sk4rn][twitter] ;));
-       - Contribute more to Open Source projects;
-       - Learn Julia and Golang; 
-       - Land my first job; 
-       - Get into the MLH Fellowship;
-       - Build a habit of blogging, on Hashnode;
+- Grow my Twitter following and post regular, quality content ([@sk4rn][twitter] ;));
+- Contribute more to Open Source projects;
+- Learn Julia and Golang; 
+- Land my first job; 
+- Get into the MLH Fellowship;
+- Build a habit of blogging, on Hashnode;
 - 🔭 I’m currently working on an easy-to-use Content Delivery System
 - 😄 Pronouns: He / him
 - 📫 How to reach me: I'm most active on Twitter, you can reach me there (feel free to connect on LinkedIn or shoot me an email as well!)
