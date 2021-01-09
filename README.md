@@ -16,17 +16,25 @@ Here are some ideas to get you started:
 ## Hi there, you can call me [Karan][website] 👋. I enjoy writing, solving problems and automating stuff. 
 
 ### I'm a Python Developer, Machine Learning Enthusiast, Software Engineer, Automation Scripter, Badminton Player, an EC Undergrad Student, and a Data Scientist in the making.
-- 🌱 I’m currently learning ReactJS, Deep Learning, and Data Science
+
+- 🌱 I’m currently learning ReactJS, and deep-diving into Deep Learning and Data Science
 - 👯 I’m looking to collaborate on projects based on what I'm learning right now
-- 🥅 2020 Goals: Use LinkedIn to network a lot more, Contribute more to Open Source projects
+- 🥅 2021 Goals: Grow my Twitter following and post regular, quality content ([@sk4rn][twitter] ;));
+                 Contribute more to Open Source projects;
+                 Learn Julia and Golang; 
+                 Land my first job; 
+                 Get into the MLH Fellowship;
+                 Build a habit of blogging, on Hashnode;
 - 🔭 I’m currently working on an easy-to-use Content Delivery System
+- 😄 Pronouns: He / him
+- 📫 How to reach me: I'm most active on Twitter, you can reach me there (feel free to connect on LinkedIn or shoot me an email as well!)
+- 👯 I’m looking to collaborate on all of MLH's Season 2021 Hackathons (https://mlh.io) (Reach me on Discord for this @ Neptune#0424)
 
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://icongr.am/devicon/twitter-original.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://icongr.am/devicon/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev.to]
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
@@ -70,8 +78,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekaransrinath&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
 
 [website]: https://sreekaransrinath.github.io
-[twitter]: https://twitter.com/skaranzx16
-[instagram]: https://instagram.com/sreekaran.srinath
+[twitter]: https://twitter.com/sk4rn
 [linkedin]: https://linkedin.com/in/sreekaran-srinath
 [medium]: https://medium.com/@sreekaransrinath
 [dev.to]: https://dev.to/sreekaransrinath
