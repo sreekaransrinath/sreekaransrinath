@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an easy-to-use Content Delivery System
 - 😄 Pronouns: He / him
 - 📫 How to reach me: I'm most active on Twitter, you can reach me there (feel free to connect on LinkedIn or shoot me an email as well!)
-- 👯 I’m looking to collaborate on all of MLH's Season 2021 Hackathons (https://mlh.io) (Reach me on Discord for this @ Neptune#0424)
+- 👯 I’m looking to collaborate on all of MLH's Season 2021 Hackathons (https://mlh.io)
 
 ### Connect with me:
 
