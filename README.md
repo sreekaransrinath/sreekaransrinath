@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 ---
 ### Github Stats:
 
+[![Sreekaran's github activity graph](https://activity-graph.herokuapp.com/graph?username=sreekaransrinath&theme=xcode)](https://git.io/sreekaran)
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sreekaransrinath&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
