@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev.to]
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
+
+	
+
 <br />
 
 ### Languages and Tools:
@@ -85,3 +89,4 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/sreekaran-srinath
 [medium]: https://medium.com/@sreekaransrinath
 [dev.to]: https://dev.to/sreekaransrinath
+[discord]: https://discord.gg/UHjrpmAsnY
