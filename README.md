@@ -32,36 +32,36 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [Hackathons](https://devpost.com/hackathons). If you like my profile, feel free to get in touch with me!
 
 ### Connect with me:
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
-[<img align="left" alt="Website" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>][website]
+[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/sk4rn?color=blue&label=%40sk4rn&logo=twitter&style=for-the-badge"/>][twitter]
+[<img align="left" alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsreekaransrinath.github.io"/>][website]
 [<img align="left" alt="Discord" src="https://img.shields.io/discord/803966293777580043.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge"/>][discord]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>][dev.to]
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][medium]
 [<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=sreekaransrinath.sreekaransrinath"/>][website]
-	
-<br>
 
-### Languages and Tools:
+<br />
+<br />
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://icongr.am/devicon/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://icongr.am/devicon/css3-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://icongr.am/devicon/javascript-original.svg" />
-<img align="left" alt="React" width="30px" src="https://icongr.am/devicon/react-original-wordmark.svg" />
-<img align="left" alt="Node.js" width="30px" src="https://icongr.am/devicon/nodejs-original.svg" />
-<img align="left" alt="PostGreSQL" width="30px" src="https://icongr.am/devicon/postgresql-original-wordmark.svg"/>
-<img align="left" alt="MySQL" width="30px" src="https://icongr.am/devicon/mysql-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="30px" src="https://icongr.am/devicon/mongodb-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
-<img align="left" alt="GitHub" width="30px" src="https://icongr.am/devicon/github-original-wordmark.svg" />
-<img align="left" alt="Python" width="30px" src="https://icongr.am/devicon/python-original.svg" />
-<img align="left" alt="Linux" width="30px" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
-<img align="left" alt="Bootstrap" width="30px" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Java" width="30px" src="https://icongr.am/devicon/java-original-wordmark.svg" />
-<img align="left" alt="C" width="30px" src="https://icongr.am/devicon/c-original.svg" />
-<img align="left" alt="Heroku" width="30px" src="https://icongr.am/devicon/heroku-original-wordmark.svg" />
+### Skills, Languages, Tools, and Frameworks:
 
+<img align="left" alt="Visual Studio Code" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
+<img align="left" alt="HTML5" src="https://icongr.am/devicon/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg" />
+<img align="left" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg" />
+<img align="left" alt="React" src="https://icongr.am/devicon/react-original-wordmark.svg" />
+<img align="left" alt="Node.js" src="https://icongr.am/devicon/nodejs-original.svg" />
+<img align="left" alt="PostGreSQL" src="https://icongr.am/devicon/postgresql-original-wordmark.svg"/>
+<img align="left" alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg" />
+<img align="left" alt="MongoDB" src="https://icongr.am/devicon/mongodb-original-wordmark.svg" />
+<img align="left" alt="Git" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
+<img align="left" alt="GitHub" src="https://icongr.am/devicon/github-original-wordmark.svg" />
+<img align="left" alt="Python" src="https://icongr.am/devicon/python-original.svg" />
+<img align="left" alt="Linux" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
+<img align="left" alt="Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="Java" src="https://icongr.am/devicon/java-original-wordmark.svg" />
+<img align="left" alt="C" src="https://icongr.am/devicon/c-original.svg" />
+<img align="left" alt="Heroku" src="https://icongr.am/devicon/heroku-original-wordmark.svg" />
 <br />
 <br />
 
