@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 [<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/sk4rn?color=blue&label=%40sk4rn&logo=twitter&style=for-the-badge"/>][twitter]
 [<img align="left" alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsreekaransrinath.github.io"/>][website]
-[<img align="left" alt="Discord" src="https://img.shields.io/discord/803966293777580043.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge"/>][discord]
+[<img align="left" alt="Discord" src="https://img.shields.io/discord/384024830988648450?color=blue&label=Discord&logo=discord&style=for-the-badge"/>][discord]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>][dev.to]
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][medium]
