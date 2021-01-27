@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an easy-to-use Content Delivery System
 - 😄 Pronouns: He / him
 - 📫 How to reach me: I'm most active on Twitter, you can reach me there (feel free to connect on LinkedIn or shoot me an email as well!)
-- 👯 I’m looking to collaborate on all of [MLH's Season 2021 Hackathons](https://mlh.io)
+- 👯 I’m looking to collaborate on [Hackathons](https://devpost.com/hackathons). If you like my profile, feel free to get in touch with me!
 
 ### Connect with me:
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  -->
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
 [<img align="left" alt="Website" src="https://img.shields.io/badge/GitHub-100000?label=Website&style=for-the-badge&logo=github&logoColor=white"/>][website]
-[<img align="left" alt="Discord" src="https://img.shields.io/discord/688852585071116289.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge"/>][discord]
+[<img align="left" alt="Discord" src="https://img.shields.io/discord/803966293777580043.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge"/>][discord]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=sreekaransrinath.sreekaransrinath"/>][website]
 	
