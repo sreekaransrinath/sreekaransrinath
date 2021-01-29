@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>][dev.to]
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][medium]
-[<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=sreekaransrinath.sreekaransrinath"/>][website]
 
 <br />
 <br />
@@ -87,3 +86,5 @@ Here are some ideas to get you started:
 [medium]: https://medium.com/@sreekaransrinath
 [dev.to]: https://dev.to/sreekaransrinath
 [discord]: https://discord.gg/UHjrpmAsnY
+
+[<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=sreekaransrinath.sreekaransrinath"/>][website]
