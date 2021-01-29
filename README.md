@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, you can call me [Karan][website] 👋. I enjoy writing, solving problems and automating stuff. 
+## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> You can call me [Karan][website]. I enjoy writing, solving problems and automating stuff. 
 
 ### I'm a Python Developer, Machine Learning Enthusiast, Software Engineer, Automation Scripter, Badminton Player, an EC Undergrad Student, and a Data Scientist in the making.
 
