@@ -46,34 +46,46 @@ Here are some ideas to get you started:
 </a>
 <br>
 
-### My Experiences with Development 💻:
+### A Little Bit About Me 📎
+- I'm a final-year student pursuing a Bachelor's Degree in Electronics and Communication Engineering from Anna University, India.
+- I'm an open-source enthusiast and I love all things Hackathons.
+- I'm a Full-Stack Developer, and I primarily work with Python, Java, and JavaScript. I also have experience with Deep Learning and Data Science.
+
+### My Experiences with Development 💻
 - Currently a Software Engineer Intern at [Zoho](https://zoho.com), working on cloud computing.
 - Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time.
 - Software Engineer Intern at [RoloCRM](https://rolocrm.in) - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours.
 - Software Engineer Intern at [Serendip](https://serendip.co) - Redesigned and built a website, which serves as the primary point of contact with consumers from scratch, and gained experience in Figma, Canva, and SEO Optimization. Contributed to their app’s codebase in React Native.
 - Head of Web Development at Pranav 2019, a national-level technical symposium.
 
-### Experiments with Community and Mentorship 👨🏽‍🏫:
+### Experiments with Community and Mentorship 🙌🏼
 - Mentor & Judge at [Major League Hacking](https://mlh.io) - Mentored students and judged submissions at MLH-hosted events.
 - Hackathon Ambassador at [AngelHack](https://angelhack.com).
 - Data Science Bootcamp Mentor at [Data Inspired Young Analysts](https://diya-research.org) - Mentored a batch of ~10 students towards learning from scratch Python and the basics of data science in the space of a month-long winter bootcamp, with the goal of building a loan application classifier.
 - Co-Lead of Incubation at [SPI Edge](https://linkedin.com/company/spi-edge) - Oversaw, led, and mentored 15 hackathon-winning teams into turning their projects into potential start-ups using the GROW and sprint models.
-- Mentor/Judge at several [hackathons](https://skrn.ml/#Hackathons), including [MakeHarvard](https://makeharvard.io), [TAMUhack](https://tamuhack.com), [HackDavis](https://hackdavis.io), [SF Hacks](https://sfhacks.io)
+- Mentor/Judge at several [hackathons](https://skrn.ml/#Hackathons), including [MakeHarvard](https://makeharvard.io), [TAMUhack](https://tamuhack.com), [HackDavis](https://hackdavis.io), [SF Hacks](https://sfhacks.io).
 - Project Co-ordinator (Hackathons and Events) at Madras HackerSpace - Organized a hackathon themed around fundraising platforms. Conducted workshops and talks centered around helping newbie programmers.
-- Mentor at [Harvard CS50's New Year 2021 Seminars](https://cs50.harvard.edu/)
+- Mentor at [Harvard CS50's New Year 2021 Seminars](https://cs50.harvard.edu/).
 - Event Co-ordinator (Hackathon and Coding Challenge) at Pranav 2019 - Organized, coordinated, designed questions and tests, and pulled off the Code Mantra at Pranav 2019, a national level technical symposium, which saw a total of over 500 participants.
 - Mentor at [DevScript Winter of Code](https://devscript.tech) - Mentored students in DevScript Winter of Code to contribute to open-source projects.
 
-### Recent Talks 🗣️:
-- [Building a great Resume as a Student in STEM.](https://www.youtube.com/watch?v=d8Q8hnMk_U8)
-- [Building a Social Profile as a Developer.](https://youtu.be/iL9oDsmSE_g)
-- [Leveraging Communities as a Student Dev.](https://youtu.be/ZwP-BWEUTDo)
+### Recent Talks 🗣️
+- [Building a great Resume as a Student in STEM.](https://www.youtube.com/watch?v=d8Q8hnMk_U8).
+- [Building a Social Profile as a Developer.](https://youtu.be/iL9oDsmSE_g).
+- [Leveraging Communities as a Student Dev.](https://youtu.be/ZwP-BWEUTDo).
 - Apart from these, I go on [Twitter Spaces](https://twitter.com/sk4rn) every week to talk about all things tech, hackathons, open-source, and careers.
 
-### Latest Blogs ✍🏽:
+### Latest Blogs ✍🏽
 - [Hackathons 101](https://blog.skrn.ml/hackathons-101)
 
-### Github Stats:
+### Achievements 🚀
+- #3 Worldwide among 65,000+ Hackers at [Major League Hacking](https://mlh.io)'s [Local Hack Day: Build](https://localhackday.mlh.io).
+- #1 of 4500+ teams, [Wonsulting Project 2020](https://wonsulting.com/project-2020) (Wonsuting4WorldLiteracy - raised >COL$3.5M for education of disadvantaged children in Colombia).
+- Winner (out of 100+ teams), [MLH](https://mlh.io)'s [Impractical Hackers](https://organize.mlh.io/participants/events/6397-impractical-hackers) Hackathon.
+- Winner (out of 100+ teams), [MLH](https://mlh.io)'s [CorgiHacks](https://organize.mlh.io/participants/events/6531-corgihacks) Hackathon.
+- #1 (out of 120 submissions), E^3 (intra-uni hackathon).
+
+### Github Stats
 [![Sreekaran's github activity graph](https://activity-graph.herokuapp.com/graph?username=sreekaransrinath&theme=xcode)](https://git.io/sreekaran)
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sreekaransrinath&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
