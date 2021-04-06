@@ -11,12 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> You can call me [Karan][website]. I enjoy writing, solving problems and automating stuff. 
-
-### I'm a Python Developer, Machine Learning Enthusiast, Software Engineer, Automation Scripter, Badminton Player, an EC Undergrad Student, and a Data Scientist in the making.
-
 - 🌱 I’m currently learning ReactJS, and deep-diving into Deep Learning and Data Science
 - 👯 I’m looking to collaborate on projects based on what I'm learning right now
 - 🥅 2021 Goals: 
@@ -31,36 +25,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I'm most active on Twitter, you can reach me there (feel free to connect on LinkedIn or shoot me an email as well!)
 - 👯 I’m looking to collaborate on [Hackathons](https://devpost.com/hackathons). If you like my profile, feel free to get in touch with me!
 
+-->
+
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> You can call me [Karan][website]. I enjoy writing, solving problems, building communities and products, and automating stuff.
+
+### I'm a Python Developer, Machine Learning Enthusiast, Software Engineer, Automation Scripter, Badminton Player, an EC Undergrad Student, and a Data Scientist in the making.
+
+## My Experiences with Development 💻:
+- Currently a Software Engineer Intern at [Zoho](https://zoho.com), working on cloud computing.
+- Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time.
+- Software Engineer Intern at [RoloCRM](https://rolocrm.in) - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours.
+- Software Engineer Intern at [Serendip](https://serendip.co) - Redesigned and built a website, which serves as the primary point of contact with consumers from scratch, and gained experience in Figma, Canva, and SEO Optimization. Contributed to their app’s codebase in React Native.
+- Head of Web Development at Pranav 2019, a national-level technical symposium.
+
+## Community Experience 🗣️:
+- Mentor & Judge at [Major League Hacking](https://mlh.io).
+- Hackathon Ambassador at [AngelHack](https://angelhack.com).
+- Data Science Bootcamp Mentor at [Data Inspired Young Analysts](https://diya-research.org) - Mentored a batch of ~10 students towards learning from scratch Python and the basics of data science in the space of a month-long winter bootcamp, with the goal of building a loan application classifier.
+- Co-Lead of Incubation at [SPI Edge](https://linkedin.com/company/spi-edge) - Oversaw, led, and mentored 15 hackathon-winning teams into turning their projects into potential start-ups using the GROW and sprint models.
+- Project Co-ordinator (Hackathons and Events) at Madras HackerSpace - Organized a hackathon themed around fundraising platforms. Conducted workshops and talks centered around helping newbie programmers.
+- Event Co-ordinator (Hackathon and Coding Challenge) at Pranav 2019 - Organized, coordinated, designed questions and tests, and pulled off the Code Mantra at Pranav 2019, a national level technical symposium, which saw a total of over 500 participants.
+- Mentor at [Harvard CS50's New Year 2021 Seminars](https://cs50.harvard.edu/)
+
 ### Connect with me:
 [<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/sk4rn?color=blue&label=%40sk4rn&logo=twitter&style=for-the-badge"/>][twitter]
 [<img align="left" alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsreekaransrinath.github.io"/>][website]
 [<img align="left" alt="Discord" src="https://img.shields.io/discord/384024830988648450?color=blue&label=Discord&logo=discord&style=for-the-badge"/>][discord]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img align="left" alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>][dev.to]
-[<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][medium]
 
-<br />
-<br />
-
-### Skills, Languages, Tools, and Frameworks:
-
-<img align="left" alt="Visual Studio Code" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
-<img align="left" alt="HTML5" src="https://icongr.am/devicon/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg" />
-<img align="left" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg" />
-<img align="left" alt="React" src="https://icongr.am/devicon/react-original-wordmark.svg" />
-<img align="left" alt="Node.js" src="https://icongr.am/devicon/nodejs-original.svg" />
-<img align="left" alt="PostGreSQL" src="https://icongr.am/devicon/postgresql-original-wordmark.svg"/>
-<img align="left" alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg" />
-<img align="left" alt="MongoDB" src="https://icongr.am/devicon/mongodb-original-wordmark.svg" />
-<img align="left" alt="Git" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
-<img align="left" alt="GitHub" src="https://icongr.am/devicon/github-original-wordmark.svg" />
-<img align="left" alt="Python" src="https://icongr.am/devicon/python-original.svg" />
-<img align="left" alt="Linux" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
-<img align="left" alt="Bootstrap" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Java" src="https://icongr.am/devicon/java-original-wordmark.svg" />
-<img align="left" alt="C" src="https://icongr.am/devicon/c-original.svg" />
-<img align="left" alt="Heroku" src="https://icongr.am/devicon/heroku-original-wordmark.svg" />
 <br />
 <br />
 
