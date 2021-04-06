@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> You can call me [Karan][website]. I enjoy writing, solving problems, building communities and products, and automating stuff.
 
-### I'm a Python Developer, Machine Learning Enthusiast, Software Engineer, Automation Scripter, Badminton Player, an EC Undergrad Student, and a Data Scientist in the making.
+<-- ### I'm a Python Developer, Machine Learning Enthusiast, Software Engineer, Automation Scripter, Badminton Player, an EC Undergrad Student, and a Data Scientist in the making. -->
 
 ## My Experiences with Development 💻:
 - Currently a Software Engineer Intern at [Zoho](https://zoho.com), working on cloud computing.
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - Software Engineer Intern at [Serendip](https://serendip.co) - Redesigned and built a website, which serves as the primary point of contact with consumers from scratch, and gained experience in Figma, Canva, and SEO Optimization. Contributed to their app’s codebase in React Native.
 - Head of Web Development at Pranav 2019, a national-level technical symposium.
 
-## Community Experience 🗣️:
+## Experiments with Community and Mentorship 🗣️:
 - Mentor & Judge at [Major League Hacking](https://mlh.io).
 - Hackathon Ambassador at [AngelHack](https://angelhack.com).
 - Data Science Bootcamp Mentor at [Data Inspired Young Analysts](https://diya-research.org) - Mentored a batch of ~10 students towards learning from scratch Python and the basics of data science in the space of a month-long winter bootcamp, with the goal of building a loan application classifier.
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 - Project Co-ordinator (Hackathons and Events) at Madras HackerSpace - Organized a hackathon themed around fundraising platforms. Conducted workshops and talks centered around helping newbie programmers.
 - Event Co-ordinator (Hackathon and Coding Challenge) at Pranav 2019 - Organized, coordinated, designed questions and tests, and pulled off the Code Mantra at Pranav 2019, a national level technical symposium, which saw a total of over 500 participants.
 - Mentor at [Harvard CS50's New Year 2021 Seminars](https://cs50.harvard.edu/)
+- Mentor at [DevScript Winter of Code](https://devscript.tech) - Mentored students in DevScript Winter of Code to contribute to open-source projects.
 
 ### Connect with me:
 [<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/sk4rn?color=blue&label=%40sk4rn&logo=twitter&style=for-the-badge"/>][twitter]
