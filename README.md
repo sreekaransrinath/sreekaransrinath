@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <a href="mailto:sreekaran.srinath@gmail.com">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/send-outline.svg" style="color:#007bff !important"/>
 </a>
+
 ### My Experiences with Development 💻:
 - Currently a Software Engineer Intern at [Zoho](https://zoho.com), working on cloud computing.
 - Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time.
