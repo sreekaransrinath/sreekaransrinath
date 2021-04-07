@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - I'm an open-source enthusiast and I love all things Hackathons.
 - I'm a Full-Stack Developer, and I primarily work with Python, Java, and JavaScript. I also have experience with Deep Learning and Data Science.
 
-### My Experiences with Development 💻
+### Experiences with Development 💻
 - Currently a Software Engineer Intern at [Zoho](https://zoho.com), working on cloud computing.
 - Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time.
 - Software Engineer Intern at [RoloCRM](https://rolocrm.in) - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours.
@@ -70,9 +70,9 @@ Here are some ideas to get you started:
 - Mentor at [DevScript Winter of Code](https://devscript.tech) - Mentored students in DevScript Winter of Code to contribute to open-source projects.
 
 ### Recent Talks 🗣️
-- [Building a great Resume as a Student in STEM.](https://www.youtube.com/watch?v=d8Q8hnMk_U8).
-- [Building a Social Profile as a Developer.](https://youtu.be/iL9oDsmSE_g).
-- [Leveraging Communities as a Student Dev.](https://youtu.be/ZwP-BWEUTDo).
+- [Building a great Resume as a Student in STEM](https://www.youtube.com/watch?v=d8Q8hnMk_U8)
+- [Building a Social Profile as a Developer](https://youtu.be/iL9oDsmSE_g)
+- [Leveraging Communities as a Student Dev](https://youtu.be/ZwP-BWEUTDo)
 - Apart from these, I go on [Twitter Spaces](https://twitter.com/sk4rn) every week to talk about all things tech, hackathons, open-source, and careers.
 
 ### Latest Blogs ✍🏽
