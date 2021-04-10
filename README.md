@@ -75,6 +75,11 @@ Here are some ideas to get you started:
 - [Leveraging Communities as a Student Dev](https://youtu.be/ZwP-BWEUTDo)
 - Apart from these, I go on [Twitter Spaces](https://twitter.com/sk4rn) every week to talk about all things tech, hackathons, open-source, and careers.
 
+### Upcoming Talks 🗣️
+- [All things Open-Source with Matt Rickard](https://twitter.com/sk4rn)
+- [On his Startup Journeys with Devfolio and Foldbank with Shakti Goap](https://twitter.com/sk4rn)
+- [The Tenreads Story + Working at Gojek Tech with Gokul Nath Sridhar](https://twitter.com/sk4rn)
+
 ### Latest Blogs ✍🏽
 - [Hackathons 101](https://blog.skrn.ml/hackathons-101)
 
