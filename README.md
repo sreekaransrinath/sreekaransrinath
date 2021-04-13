@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - Mentor & Judge at [Major League Hacking](https://mlh.io) - Mentored students and judged submissions at MLH-hosted events.
 - Hackathon Ambassador at [AngelHack](https://angelhack.com).
 - Data Science Bootcamp Mentor at [Data Inspired Young Analysts](https://diya-research.org) - Mentored a batch of ~10 students towards learning from scratch Python and the basics of data science in the space of a month-long winter bootcamp, with the goal of building a loan application classifier.
-- Co-Lead of Incubation at [SPI Edge](https://linkedin.com/company/spi-edge) - Oversaw, led, and mentored 15 hackathon-winning teams into turning their projects into potential start-ups using the GROW and sprint models.
+- Co-Lead of Incubation at [SPI Edge](https://linkedin.com/company/spi-edge) - Oversaw, led, and mentored 15 hackathon-winning teams in turning their projects into potential start-ups.
 - Mentor/Judge at several [hackathons](https://skrn.ml/#Hackathons), including [MakeHarvard](https://makeharvard.io), [TAMUhack](https://tamuhack.com), [HackDavis](https://hackdavis.io), [SF Hacks](https://sfhacks.io).
 - Project Co-ordinator (Hackathons and Events) at Madras HackerSpace - Organized a hackathon themed around fundraising platforms. Conducted workshops and talks centered around helping newbie programmers.
 - Mentor at [Harvard CS50's New Year 2021 Seminars](https://cs50.harvard.edu/).
