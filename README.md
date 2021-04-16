@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 - I'm a Full-Stack Developer, and I primarily work with Python, Java, and JavaScript. I also have experience with Deep Learning and Data Science.
 
 ### Experiences with Development 💻
-- Currently a Software Engineer Intern at [Zoho](https://zoho.com), working on cloud computing.
 - Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time.
 - Software Engineer Intern at [RoloCRM](https://rolocrm.in) - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours.
 - Software Engineer Intern at [Serendip](https://serendip.co) - Redesigned and built a website, which serves as the primary point of contact with consumers from scratch, and gained experience in Figma, Canva, and SEO Optimization. Contributed to their app’s codebase in React Native.
