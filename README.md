@@ -54,57 +54,69 @@ Here are some ideas to get you started:
 <details>
 <summary>Experiences with Development 💻</summary>
 <br>
-- Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time. <br/>
-- Software Engineer Intern at [RoloCRM](https://rolocrm.in) - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours. <br/>
-- Software Engineer Intern at [Serendip](https://serendip.co) - Redesigned and built a website, which serves as the primary point of contact with consumers from scratch, and gained experience in Figma, Canva, and SEO Optimization. Contributed to their app’s codebase in React Native. <br/>
-- Head of Web Development at Pranav 2019, a national-level technical symposium.
+<ul> 
+<li> Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time. 
+<li> Software Engineer Intern at [RoloCRM](https://rolocrm.in) - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours. 
+<li> Software Engineer Intern at [Serendip](https://serendip.co) - Redesigned and built a website, which serves as the primary point of contact with consumers from scratch, and gained experience in Figma, Canva, and SEO Optimization. Contributed to their app’s codebase in React Native. 
+<li> Head of Web Development at Pranav 2019, a national-level technical symposium.
+</ul>
 </details>
 
 <details>
 <summary>Experiments with Community and Mentorship 🙌🏼</summary>
 <br>
-- Mentor & Judge at [Major League Hacking](https://mlh.io) - Mentored students and judged submissions at MLH-hosted events.<br/>
-- Hackathon Ambassador at [AngelHack](https://angelhack.com).<br/>
-- Data Science Bootcamp Mentor at [Data Inspired Young Analysts](https://diya-research.org) - Mentored a batch of ~10 students towards learning from scratch Python and the basics of data science in the space of a month-long winter bootcamp, with the goal of building a loan application classifier.<br/>
-- Co-Lead of Incubation at [SPI Edge](https://linkedin.com/company/spi-edge) - Oversaw, led, and mentored 15 hackathon-winning teams in turning their projects into potential start-ups.<br/>
-- Mentor/Judge at 30+ [hackathons](https://skrn.ml/#Hackathons), including [MakeHarvard](https://makeharvard.io), [TAMUhack](https://tamuhack.com), [HackDavis](https://hackdavis.io), [SF Hacks](https://sfhacks.io).<br/>
-- Project Co-ordinator (Hackathons and Events) at Madras HackerSpace - Organized a hackathon themed around fundraising platforms. Conducted workshops and talks centered around helping newbie programmers.<br/>
-- Mentor at [Harvard CS50's 2021 Seminars](https://cs50.harvard.edu/).<br/>
-- Event Co-ordinator (Hackathon and Coding Challenge) at Pranav 2019 - Organized, coordinated, designed questions and tests, and pulled off the Code Mantra at Pranav 2019, a national level technical symposium, which saw a total of over 500 participants.<br/>
-- Mentor at [DevScript Winter of Code](https://devscript.tech) - Mentored students in DevScript Winter of Code to contribute to open-source projects.
+  <ul>
+<li> Mentor & Judge at [Major League Hacking](https://mlh.io) - Mentored students and judged submissions at MLH-hosted events.
+<li> Hackathon Ambassador at [AngelHack](https://angelhack.com).
+<li> Data Science Bootcamp Mentor at [Data Inspired Young Analysts](https://diya-research.org) - Mentored a batch of ~10 students towards learning from scratch Python and the basics of data science in the space of a month-long winter bootcamp, with the goal of building a loan application classifier.
+<li> Co-Lead of Incubation at [SPI Edge](https://linkedin.com/company/spi-edge) - Oversaw, led, and mentored 15 hackathon-winning teams in turning their projects into potential start-ups.
+<li> Mentor/Judge at 30+ [hackathons](https://skrn.ml/#Hackathons), including [MakeHarvard](https://makeharvard.io), [TAMUhack](https://tamuhack.com), [HackDavis](https://hackdavis.io), [SF Hacks](https://sfhacks.io).
+<li> Project Co-ordinator (Hackathons and Events) at Madras HackerSpace - Organized a hackathon themed around fundraising platforms. Conducted workshops and talks centered around helping newbie programmers.
+<li> Mentor at [Harvard CS50's 2021 Seminars](https://cs50.harvard.edu/).
+<li> Event Co-ordinator (Hackathon and Coding Challenge) at Pranav 2019 - Organized, coordinated, designed questions and tests, and pulled off the Code Mantra at Pranav 2019, a national level technical symposium, which saw a total of over 500 participants.
+<li> Mentor at [DevScript Winter of Code](https://devscript.tech) - Mentored students in DevScript Winter of Code to contribute to open-source projects.
+  </ul>
 </details>
 
 <details>
 <summary>Recent Talks 🗣️🏼</summary>
 <br>
-- [Growing With Open-Source with Matt Rickard](https://twitter.com/sk4rn)<br/>
-- [Building a great Resume as a Student in STEM](https://www.youtube.com/watch?v=d8Q8hnMk_U8)<br/>
-- [Building a Social Profile as a Developer](https://youtu.be/iL9oDsmSE_g)<br/>
-- [Leveraging Communities as a Student Dev](https://youtu.be/ZwP-BWEUTDo)<br/>
-- Apart from these, I go on [Twitter Spaces](https://twitter.com/sk4rn) every week to talk about all things tech, hackathons, open-source, and community.
+  <ul>
+<li> [Growing With Open-Source with Matt Rickard](https://twitter.com/sk4rn)
+<li> [Building a great Resume as a Student in STEM](https://www.youtube.com/watch?v=d8Q8hnMk_U8)
+<li> [Building a Social Profile as a Developer](https://youtu.be/iL9oDsmSE_g)
+<li> [Leveraging Communities as a Student Dev](https://youtu.be/ZwP-BWEUTDo)
+<li> Apart from these, I go on [Twitter Spaces](https://twitter.com/sk4rn) every week to talk about all things tech, hackathons, open-source, and community.
+  </ul>
 </details>
 
 <details>
 <summary>Upcoming Talks 🗣️🏼</summary>
 <br>
-- [Hackathons + the Devfolio & Foldbank Story with Shakti Goap](https://twitter.com/sk4rn)<br/>
-- [The Tenreads Story + Working at Gojek Tech with Gokul Nath Sridhar](https://twitter.com/sk4rn)
+  <ul>
+<li> [Hackathons + the Devfolio & Foldbank Story with Shakti Goap](https://twitter.com/sk4rn)
+<li> [The Tenreads Story + Working at Gojek Tech with Gokul Nath Sridhar](https://twitter.com/sk4rn)
+  </ul>
 </details>
 
 <details>
 <summary>Latest Blogs ✍🏽</summary>
 <br>
-- [Hackathons 101](https://blog.skrn.ml/hackathons-101)
+  <ul>
+<li> [Hackathons 101](https://blog.skrn.ml/hackathons-101)
+  </ul>
 </details>
 
 <details>
 <summary>Achievements 🚀🏽</summary>
 <br>
-- #3 Worldwide among 65,000+ Hackers at [Major League Hacking](https://mlh.io)'s [Local Hack Day: Build](https://localhackday.mlh.io).<br/>
-- #1 of 4500+ teams, [Wonsulting Project 2020](https://wonsulting.com/project-2020) (Wonsuting4WorldLiteracy - raised >COL$3.5M for education of disadvantaged children in Colombia).<br/>
-- Winner (out of 100+ teams), [MLH](https://mlh.io)'s [Impractical Hackers](https://organize.mlh.io/participants/events/6397-impractical-hackers) Hackathon.<br/>
-- Winner (out of 100+ teams), [MLH](https://mlh.io)'s [CorgiHacks](https://organize.mlh.io/participants/events/6531-corgihacks) Hackathon.<br/>
-- #1 (out of 120 submissions), E^3 (intra-uni hackathon).
+  <ul>
+<li> #3 Worldwide among 65,000+ Hackers at [Major League Hacking](https://mlh.io)'s [Local Hack Day: Build](https://localhackday.mlh.io).
+<li> #1 of 4500+ teams, [Wonsulting Project 2020](https://wonsulting.com/project-2020) (Wonsuting4WorldLiteracy - raised >COL$3.5M for education of disadvantaged children in Colombia).
+<li> Winner (out of 100+ teams), [MLH](https://mlh.io)'s [Impractical Hackers](https://organize.mlh.io/participants/events/6397-impractical-hackers) Hackathon.
+<li> Winner (out of 100+ teams), [MLH](https://mlh.io)'s [CorgiHacks](https://organize.mlh.io/participants/events/6531-corgihacks) Hackathon.
+<li> #1 (out of 120 submissions), E^3 (intra-uni hackathon).
+  </ul>
 </details>
 
 ### Github Stats
