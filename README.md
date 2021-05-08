@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>Latest Blogs ✍</b></summary>
+  <summary><b>Latest Blogs ✍🏼</b></summary>
 <br>
   <ul>
 <li> [Hackathons 101](https://blog.skrn.ml/hackathons-101)
