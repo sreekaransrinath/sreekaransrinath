@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><h3>Experiments with Community and Mentorship 🙌🏼</h3></summary>
+  <h3><summary>Experiments with Community and Mentorship 🙌🏼</summary></h3>
 <br>
   <ul>
     <li> Mentor & Judge at [Major League Hacking](https://mlh.io) - Mentored students and judged submissions at MLH-hosted events.
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><h3>Recent Talks 🗣️🏼</h3></summary>
+  <h3><summary>Recent Talks 🗣️🏼</summary></h3>
 <br>
   <ul>
 <li> [Growing With Open-Source with Matt Rickard](https://twitter.com/sk4rn)
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><h3>Upcoming Talks 🗣️🏼</h3></summary>
+  <h3><summary>Upcoming Talks 🗣️🏼</summary></h3>
 <br>
   <ul>
 <li> [Hackathons + the Devfolio & Foldbank Story with Shakti Goap](https://twitter.com/sk4rn)
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><h3>Latest Blogs ✍</h3>🏽</summary>
+  <h3><summary>Latest Blogs ✍</summary></h3>
 <br>
   <ul>
 <li> [Hackathons 101](https://blog.skrn.ml/hackathons-101)
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><h3>Achievements 🚀🏽</h3></summary>
+  <h3><summary>Achievements 🚀🏽</summary></h3>
 <br>
   <ul>
 <li> #3 Worldwide among 65,000+ Hackers at [Major League Hacking](https://mlh.io)'s [Local Hack Day: Build](https://localhackday.mlh.io).
