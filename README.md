@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - I'm a Full-Stack Developer, and I primarily work with Python, Java, and JavaScript. I also have experience with Deep Learning and Data Science.
 
 <details>
-  <summary><h3>Experiences with Development 💻</h3></summary>
+  <summary><b>Experiences with Development 💻</b></summary>
 <br>
 <ul> 
   <li> Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time. 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><h3>Experiments with Community and Mentorship 🙌🏼</h3></summary>
+  <summary><b>Experiments with Community and Mentorship 🙌🏼</b></summary>
 <br>
   <ul>
     <li> Mentor & Judge at [Major League Hacking](https://mlh.io) - Mentored students and judged submissions at MLH-hosted events.
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><h3>Recent Talks 🗣️🏼</h3></summary>
+  <summary><b>Recent Talks 🗣️</b></summary>
 <br>
   <ul>
 <li> [Growing With Open-Source with Matt Rickard](https://twitter.com/sk4rn)
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><h3>Upcoming Talks 🗣️🏼</h3></summary>
+  <summary><b>Upcoming Talks 🗣️</b></summary>
 <br>
   <ul>
 <li> [Hackathons + the Devfolio & Foldbank Story with Shakti Goap](https://twitter.com/sk4rn)
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><h3>Latest Blogs ✍</h3>🏽</summary>
+  <summary><b>Latest Blogs ✍🏼</b></summary>
 <br>
   <ul>
 <li> [Hackathons 101](https://blog.skrn.ml/hackathons-101)
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><h3>Achievements 🚀🏽</h3></summary>
+  <summary><b>Achievements 🚀</b></summary>
 <br>
   <ul>
 <li> #3 Worldwide among 65,000+ Hackers at [Major League Hacking](https://mlh.io)'s [Local Hack Day: Build](https://localhackday.mlh.io).
