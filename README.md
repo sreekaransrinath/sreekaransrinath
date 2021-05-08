@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>Recent Talks 🗣️🏼</b></summary>
+  <summary><b>Recent Talks 🗣️</b></summary>
 <br>
   <ul>
 <li> [Growing With Open-Source with Matt Rickard](https://twitter.com/sk4rn)
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>Upcoming Talks 🗣️🏼</b></summary>
+  <summary><b>Upcoming Talks 🗣️</b></summary>
 <br>
   <ul>
 <li> [Hackathons + the Devfolio & Foldbank Story with Shakti Goap](https://twitter.com/sk4rn)
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>Latest Blogs ✍</b>🏽</summary>
+  <summary><b>Latest Blogs ✍</b></summary>
 <br>
   <ul>
 <li> [Hackathons 101](https://blog.skrn.ml/hackathons-101)
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>Achievements 🚀🏽</b></summary>
+  <summary><b>Achievements 🚀</b></summary>
 <br>
   <ul>
 <li> #3 Worldwide among 65,000+ Hackers at [Major League Hacking](https://mlh.io)'s [Local Hack Day: Build](https://localhackday.mlh.io).
