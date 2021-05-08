@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Experiences with Development 💻</b></summary>
-<br>
 <ul> 
   <li> Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time. 
   <li> Software Engineer Intern at [RoloCRM](https://rolocrm.in) - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours. 
@@ -64,7 +63,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Experiments with Community and Mentorship 🙌🏼</b></summary>
-<br>
   <ul>
     <li> Mentor & Judge at [Major League Hacking](https://mlh.io) - Mentored students and judged submissions at MLH-hosted events.
     <li> Hackathon Ambassador at [AngelHack](https://angelhack.com).
@@ -80,7 +78,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Recent Talks 🗣️</b></summary>
-<br>
   <ul>
 <li> [Growing With Open-Source with Matt Rickard](https://twitter.com/sk4rn)
 <li> [Building a great Resume as a Student in STEM](https://www.youtube.com/watch?v=d8Q8hnMk_U8)
@@ -92,7 +89,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Upcoming Talks 🗣️</b></summary>
-<br>
   <ul>
 <li> [Hackathons + the Devfolio & Foldbank Story with Shakti Goap](https://twitter.com/sk4rn)
 <li> [The Tenreads Story + Working at Gojek Tech with Gokul Nath Sridhar](https://twitter.com/sk4rn)
@@ -101,7 +97,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Latest Blogs ✍🏼</b></summary>
-<br>
   <ul>
 <li> [Hackathons 101](https://blog.skrn.ml/hackathons-101)
   </ul>
@@ -109,7 +104,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Achievements 🚀</b></summary>
-<br>
   <ul>
 <li> #3 Worldwide among 65,000+ Hackers at [Major League Hacking](https://mlh.io)'s [Local Hack Day: Build](https://localhackday.mlh.io).
 <li> #1 of 4500+ teams, [Wonsulting Project 2020](https://wonsulting.com/project-2020) (Wonsuting4WorldLiteracy - raised >COL$3.5M for education of disadvantaged children in Colombia).
