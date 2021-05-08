@@ -52,34 +52,34 @@ Here are some ideas to get you started:
 - I'm a Full-Stack Developer, and I primarily work with Python, Java, and JavaScript. I also have experience with Deep Learning and Data Science.
 
 <details>
-<summary>Experiences with Development 💻</summary>
+  <summary><h3>Experiences with Development 💻</h3></summary>
 <br>
 <ul> 
-<li> Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time. 
-<li> Software Engineer Intern at [RoloCRM](https://rolocrm.in) - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours. 
-<li> Software Engineer Intern at [Serendip](https://serendip.co) - Redesigned and built a website, which serves as the primary point of contact with consumers from scratch, and gained experience in Figma, Canva, and SEO Optimization. Contributed to their app’s codebase in React Native. 
-<li> Head of Web Development at Pranav 2019, a national-level technical symposium.
+  <li> Software Product Engineer and Data Analyst Intern at [SPI Edge](https://linkedin.com/company/spi-edge) - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time. 
+  <li> Software Engineer Intern at [RoloCRM](https://rolocrm.in) - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours. 
+  <li> Software Engineer Intern at [Serendip](https://serendip.co) - Redesigned and built a website, which serves as the primary point of contact with consumers from scratch, and gained experience in Figma, Canva, and SEO Optimization. Contributed to their app’s codebase in React Native. 
+  <li> Head of Web Development at Pranav 2019, a national-level technical symposium.
 </ul>
 </details>
 
 <details>
-<summary>Experiments with Community and Mentorship 🙌🏼</summary>
+  <summary><h3>Experiments with Community and Mentorship 🙌🏼</h3></summary>
 <br>
   <ul>
-<li> Mentor & Judge at [Major League Hacking](https://mlh.io) - Mentored students and judged submissions at MLH-hosted events.
-<li> Hackathon Ambassador at [AngelHack](https://angelhack.com).
-<li> Data Science Bootcamp Mentor at [Data Inspired Young Analysts](https://diya-research.org) - Mentored a batch of ~10 students towards learning from scratch Python and the basics of data science in the space of a month-long winter bootcamp, with the goal of building a loan application classifier.
-<li> Co-Lead of Incubation at [SPI Edge](https://linkedin.com/company/spi-edge) - Oversaw, led, and mentored 15 hackathon-winning teams in turning their projects into potential start-ups.
-<li> Mentor/Judge at 30+ [hackathons](https://skrn.ml/#Hackathons), including [MakeHarvard](https://makeharvard.io), [TAMUhack](https://tamuhack.com), [HackDavis](https://hackdavis.io), [SF Hacks](https://sfhacks.io).
-<li> Project Co-ordinator (Hackathons and Events) at Madras HackerSpace - Organized a hackathon themed around fundraising platforms. Conducted workshops and talks centered around helping newbie programmers.
-<li> Mentor at [Harvard CS50's 2021 Seminars](https://cs50.harvard.edu/).
-<li> Event Co-ordinator (Hackathon and Coding Challenge) at Pranav 2019 - Organized, coordinated, designed questions and tests, and pulled off the Code Mantra at Pranav 2019, a national level technical symposium, which saw a total of over 500 participants.
-<li> Mentor at [DevScript Winter of Code](https://devscript.tech) - Mentored students in DevScript Winter of Code to contribute to open-source projects.
+    <li> Mentor & Judge at [Major League Hacking](https://mlh.io) - Mentored students and judged submissions at MLH-hosted events.
+    <li> Hackathon Ambassador at [AngelHack](https://angelhack.com).
+    <li> Data Science Bootcamp Mentor at [Data Inspired Young Analysts](https://diya-research.org) - Mentored a batch of ~10 students towards learning from scratch Python and the basics of data science in the space of a month-long winter bootcamp, with the goal of building a loan application classifier.
+    <li> Co-Lead of Incubation at [SPI Edge](https://linkedin.com/company/spi-edge) - Oversaw, led, and mentored 15 hackathon-winning teams in turning their projects into potential start-ups.
+    <li> Mentor/Judge at 30+ [hackathons](https://skrn.ml/#Hackathons), including [MakeHarvard](https://makeharvard.io), [TAMUhack](https://tamuhack.com), [HackDavis](https://hackdavis.io), [SF Hacks](https://sfhacks.io).
+    <li> Project Co-ordinator (Hackathons and Events) at Madras HackerSpace - Organized a hackathon themed around fundraising platforms. Conducted workshops and talks centered around helping newbie programmers.
+    <li> Mentor at [Harvard CS50's 2021 Seminars](https://cs50.harvard.edu/).
+    <li> Event Co-ordinator (Hackathon and Coding Challenge) at Pranav 2019 - Organized, coordinated, designed questions and tests, and pulled off the Code Mantra at Pranav 2019, a national level technical symposium, which saw a total of over 500 participants.
+    <li> Mentor at [DevScript Winter of Code](https://devscript.tech) - Mentored students in DevScript Winter of Code to contribute to open-source projects.
   </ul>
 </details>
 
 <details>
-<summary>Recent Talks 🗣️🏼</summary>
+  <summary><h3>Recent Talks 🗣️🏼</h3></summary>
 <br>
   <ul>
 <li> [Growing With Open-Source with Matt Rickard](https://twitter.com/sk4rn)
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>Upcoming Talks 🗣️🏼</summary>
+  <summary><h3>Upcoming Talks 🗣️🏼</h3></summary>
 <br>
   <ul>
 <li> [Hackathons + the Devfolio & Foldbank Story with Shakti Goap](https://twitter.com/sk4rn)
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>Latest Blogs ✍🏽</summary>
+  <summary><h3>Latest Blogs ✍</h3>🏽</summary>
 <br>
   <ul>
 <li> [Hackathons 101](https://blog.skrn.ml/hackathons-101)
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>Achievements 🚀🏽</summary>
+  <summary><h3>Achievements 🚀🏽</h3></summary>
 <br>
   <ul>
 <li> #3 Worldwide among 65,000+ Hackers at [Major League Hacking](https://mlh.io)'s [Local Hack Day: Build](https://localhackday.mlh.io).
