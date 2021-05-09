@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <summary><b>Experiences with Development 💻</b></summary>
 <ul> 
   <li> Software Product Engineer and Data Analyst Intern at <a href="https://linkedin.com/company/spi-edge">SPI Edge</a> - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time. 
-  <li> Software Engineer Intern at<a href="https://rolocrm.in">RoloCRM</a> - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours. 
+  <li> Software Engineer Intern at <a href="https://rolocrm.in">RoloCRM</a> - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours. 
   <li> Software Engineer Intern at <a href="https://serendip.co">Serendip</a> - Redesigned and built a website, which serves as the primary point of contact with consumers from scratch, and gained experience in Figma, Canva, and SEO Optimization. Contributed to their app’s codebase in React Native. 
   <li> Head of Web Development at Pranav 2019, a national-level technical symposium.
 </ul>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
     <li> Hackathon Ambassador at <a href="https://angelhack.com">AngelHack</a>.
     <li> Data Science Bootcamp Mentor at <a href="https://diya-research.org">Data Inspired Young Analysts</a> - Mentored a batch of ~10 students towards learning from scratch Python and the basics of data science in the space of a month-long winter bootcamp, with the goal of building a loan application classifier.
   <li> Co-Lead of Incubation at <a href="https://linkedin.com/company/spi-edge">SPI Edge</a> - Oversaw, led, and mentored 15 hackathon-winning teams in turning their projects into potential start-ups.
-  <li> Mentor/Judge at 30+ <a href="https://skrn.ml/#Hackathons">hackathons</a>, including <a href="https://makeharvard.io">MakeHarvard</a>, <a href="https://tamuhack.com">TAMUhack</a>, [<a href="https://hackdavis.io">HackDavis</a>, <a href="https://sfhacks.io">SF Hacks</a>.
+  <li> Mentor/Judge at 30+ <a href="https://skrn.ml/#Hackathons">hackathons</a>, including <a href="https://makeharvard.io">MakeHarvard</a>, <a href="https://tamuhack.com">TAMUhack</a>, <a href="https://hackdavis.io">HackDavis</a>, <a href="https://sfhacks.io">SF Hacks</a>.
     <li> Project Co-ordinator (Hackathons and Events) at Madras HackerSpace - Organized a hackathon themed around fundraising platforms. Conducted workshops and talks centered around helping newbie programmers.
       <li> Mentor at <a href="https://cs50.harvard.edu/">Harvard CS50's 2021 Seminars</a>.
     <li> Event Co-ordinator (Hackathon and Coding Challenge) at Pranav 2019 - Organized, coordinated, designed questions and tests, and pulled off the Code Mantra at Pranav 2019, a national level technical symposium, which saw a total of over 500 participants.
@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>Latest Blogs ✍🏼</b>Hackathons 101</summary>
+  <summary><b>Latest Blogs ✍🏼</b></summary>
   <ul>
-    <li> <a href="https://blog.skrn.ml/hackathons-101"></a>
+    <li><a href="https://blog.skrn.ml/hackathons-101">Hackathons 101</a>
   </ul>
 </details>
 
