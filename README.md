@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 <br>
 
 ### A Little Bit About Me 📎
-- I'm a final-year student pursuing a Bachelor's Degree in Electronics and Communication Engineering from Anna University, India.
-- I'm an open-source enthusiast and I love all things Hackathons.
-- I'm a Full-Stack Developer, and I primarily work with Python, Java, and JavaScript. I also have experience with Deep Learning and Data Science.
+- Final-year student pursuing a Bachelor's Degree in Electronics and Communication Engineering from Anna University, India.
+- Open-source enthusiast; love all things Hackathons.
+- Full-Stack Dev; primarily work with Python, Java, and JavaScript; also have experience with Deep Learning and Data Science.
 
 <details>
   <summary><b>Experiences with Development 💻</b></summary>
