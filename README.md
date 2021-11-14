@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 <details>
   <summary><b>Experience 💻</b></summary>
 <ul> 
-  <li> Developer Advocate at <a href="https://dasha.ai">Dasha AI</a>
-  <li> Software Engineer at <a href="https://codemantra.com">codemantra</a>
+  <li> Developer Advocate at <a href="https://dasha.ai">Dasha AI</a>.
+  <li> Software Engineer at <a href="https://codemantra.com">codemantra</a>.
   <li> Software Product Engineer and Data Analyst Intern at <a href="https://linkedin.com/company/spi-edge">SPI Edge</a> - Designed & implemented an end-to-end system to monitor & analyze habit formation using atomic habit principles & deployed the app to over 200 employees, resulting in a 50% increase in employee habit streaks. Developed a dashboard to track, analyze, & present metrics in real-time. 
   <li> Software Engineer Intern at <a href="https://rolocrm.in">RoloCRM</a> - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send out campaigns by 85% & saved nearly 5000 people-hours. 
   <li> Software Engineer Intern at <a href="https://serendip.co">Serendip</a> - Redesigned and built a website, which serves as the primary point of contact with consumers from scratch, and gained experience in Figma, Canva, and SEO Optimization. Contributed to their app’s codebase in React Native. 
