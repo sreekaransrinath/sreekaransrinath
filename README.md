@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 -->
 
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> You can call me [Sreekaran][website]. I enjoy writing, solving problems, building communities and products, and automating stuff.
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Sreekaran][website]. I enjoy writing, solving problems, building communities + products, and automating stuff.
 <a href="https://hi.skrn.ml/site->twt">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/logo-twitter.svg" style="color:#007bff !important"/>
 </a>
