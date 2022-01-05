@@ -47,7 +47,12 @@ Here are some ideas to get you started:
 <a href="https://hi.skrn.ml/site>insta">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/logo-instagram.svg" style="color:#007bff !important" />
 </a>
-<br> ### A Little Bit About Me 📎 - Software Engineer-by-day, DevRel Engineer-by-night. - Open-source enthusiast; loves all things hackathons. - Full-Stack Dev; primarily works with Python, Java, and Go.
+<br> 
+
+### A Little Bit About Me 📎 
+- Software Engineer-by-day, DevRel Engineer-by-night. 
+- Open-source enthusiast; loves all things hackathons. 
+- Full-Stack Dev; primarily works with Python, Java, and Go.
 
 <details>
     <summary><b>Experience 💻</b></summary>
@@ -120,6 +125,10 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreekaransrinath&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
 
-[website]: https://sreekaran.com [twitter]: https://hi.skrn.ml/site->twt [linkedin]: https://hi.skrn.ml/site>li [instagram]: https://hi.skrn.ml/site>insta [discord]: https://hi.skrn.ml/site>disc [
+[website]: https://sreekaran.com 
+[twitter]: https://hi.skrn.ml/site->twt 
+[linkedin]: https://hi.skrn.ml/site>li 
+[instagram]: https://hi.skrn.ml/site>insta 
+[discord]: https://hi.skrn.ml/site>disc 
 
-<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=sreekaransrinath.sreekaransrinath" />][website]
+[<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=sreekaransrinath.sreekaransrinath" />][website]
