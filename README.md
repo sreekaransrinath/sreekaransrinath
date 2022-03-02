@@ -55,14 +55,45 @@ Here are some ideas to get you started:
 - Full-Stack Dev; primarily works with Python, Java, and Go.
 
 <details>
-    <summary><b>Experience 💻</b></summary>
-    <ul>
-        <li> DevRel Engineer @ <a href="https://dasha.ai">Dasha AI</a> - Organized, managed, & sponsored hackathons & conferences to increase product adoption, visibility, & education. Orchestrated partnerships with other orgs in the form of hackathons, shelf strategies, integrations, & blogs. Built demo applications in NodeJS, created documentation, & designed learning programs. Explored hacker stories through blogs & videos to showcase hackers & apps. Built communities with 3000 members on Twitter, 800 on Slack, & 300 on Discord. Managed product collaboration & feedback generation in the communities.</li>
-        <li> Software Engineer @ <a href="https://codemantra.com">Codemantra</a> - Worked on an Intelligent Document Processing Platform; wrote modules to transform & validate epub, pdf, json, & xmlcontent based on flexible parameters. Designed & developed scripts for object detection, extraction, validation, & manipulation in pdfs. Built, tested, & deployed APIs to inject accessibility features into documents. Designed & developed content management, transformation, & validation solutions in Python & Java, with rapidly evolving requirements & specifications. Worked on an end-to-end custom learning management system with NodeJS.</li>
-        <li> Software Engineer @ <a href="https://linkedin.com/company/spi-edge">SPI Edge</a> - Designed & implemented an end-to-end system to monitor & analyze habit formation through WhatsApp. Deployed the app to over 200 employees, resulting in a 50% increase in habit streaks. Developed dashboards to track, analyze, & present metrics in real-time to both employees & employers.</li>
-        <li> Software Engineer Intern @ <a href="https://rolocrm.in">RoloCRM</a> - Designed, developed, tested, and deployed a system to automate lead generation and scheduling of more than 50,000 email campaigns using Python and Sendy. Reduced effort to send
-            out campaigns by 85% & saved nearly 5000 people-hours.</li>
-    </ul>
+  <summary><b>Experience 💻</b></summary>
+  <ul>
+    <li>
+      DevRel Engineer @ <a href="https://dasha.ai">Dasha AI</a> - 
+      <ul>
+        <li> Organized, managed, & sponsored hackathons & conferences to increase product adoption, visibility, & education.</li>
+        <li> Orchestrated partnerships with other orgs in the form of hackathons, shelf strategies, integrations, & blogs.</li>
+        <li> Built demo applications in NodeJS, created documentation, & designed learning programs.</li>
+        <li> Explored hacker stories through blogs & videos to showcase hackers & apps.</li>
+        <li> Built communities with 3000 members on Twitter, 800 on Slack, & 300 on Discord.</li>
+        <li> Managed product collaboration & feedback generation in the communities.</li>
+      </ul>
+    </li>
+    <li>
+      Software Engineer @ <a href="https://codemantra.com">Codemantra</a> - 
+      <ul>
+        <li> Worked on an Intelligent Document Processing Platform; wrote modules to transform & validate epub, pdf, json, & xml content based on flexible parameters.</li>
+        <li> Designed & developed scripts for object detection, extraction, validation, & manipulation in pdfs.</li>
+        <li> Built, tested, & deployed APIs to inject accessibility features into documents.</li>
+        <li> Designed & developed content management, transformation, & validation solutions in Python & Java, with rapidly evolving requirements & specifications.</li>
+        <li> Worked on an end-to-end custom learning management system with NodeJS.</li>
+      </ul>
+    </li>
+    <li>
+      Software Engineer @ <a href="https://linkedin.com/company/spi-edge">SPI Edge</a> - 
+      <ul>
+        <li> Designed & implemented an end-to-end system to monitor & analyze habit formation through WhatsApp.</li>
+        <li> Deployed the app to over 200 employees, resulting in a 50% increase in habit streaks.</li>
+        <li> Developed dashboards to track, analyze, & present metrics in real-time to both employees & employers.</li>
+      </ul>
+    </li>
+    <li>
+      Software Engineer Intern @ <a href="https://rolocrm.in">RoloCRM</a> - 
+      <ul>
+        <li> Designed, developed, tested, & deployed systems to automate lead generation & scheduling of 50,000 email campaigns.</li>
+        <li> Used Python & Sendy to reduce effort to send out campaigns by 85% & saved nearly 5000 hours.</li>
+      </ul>
+    </li>
+  </ul>
 </details>
 
 <details>
