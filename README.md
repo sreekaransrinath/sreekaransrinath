@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br> 
 
 ### A Little Bit About Me 📎 
-- Software Engineer-by-day, DevRel Engineer-by-night. 
+- Software by day, DevRel by night. 
 - Open-source enthusiast; loves all things hackathons. 
 - Full-Stack Dev; primarily works with Python, Java, and Go.
 
