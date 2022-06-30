@@ -31,20 +31,20 @@ Here are some ideas to get you started:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 -->
 
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Sreekaran][website]. I enjoy building communities + products, writing, solving problems, and automating stuff.
-<a href="https://hi.skrn.ml/site->twt">
+## Hi, I'm [Sreekaran][website]. I enjoy building communities + products, writing, solving problems, and automating stuff.
+<a href="https://sreekaran.com/twt">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/logo-twitter.svg" style="color:#007bff !important" />
 </a>
 <a href="https://sreekaran.com">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/planet-outline.svg" style="color:#007bff !important" />
 </a>
-<a href="https://hi.skrn.ml/site>li">
+<a href="https://sreekaran.com/li">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/logo-linkedin.svg" style="color:#007bff !important" />
 </a>
-<a href="mailto:sreekaran.srinath@gmail.com">
+<a href="mailto:hi@sreekaran.com">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/send-outline.svg" style="color:#007bff !important" />
 </a>
-<a href="https://hi.skrn.ml/site>insta">
+<a href="https://sreekaran.com/ig">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/logo-instagram.svg" style="color:#007bff !important" />
 </a>
 <br> 
