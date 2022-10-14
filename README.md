@@ -133,10 +133,6 @@ Here are some ideas to get you started:
     </ul>
 </details>
 
-<a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreekaransrinath&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-</a>
-
 [website]: https://sreekaran.com 
 [twitter]: https://sreekaran.com/twt
 [linkedin]: https://sreekaran.com/li
