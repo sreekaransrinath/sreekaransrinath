@@ -33,19 +33,19 @@ Here are some ideas to get you started:
 
 ## Hi, I'm [Sreekaran][website]. I enjoy building communities + products, writing, solving problems, and automating stuff.
 <a href="https://sreekaran.com/twt">
-    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/logo-twitter.svg" style="color:#007bff !important" />
+    <img align="left" width="24px" src="./twitter.svg"/>
 </a>
 <a href="https://sreekaran.com">
-    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/planet-outline.svg" style="color:#007bff !important" />
+    <img align="left" width="24px" src="./globe.svg"/>
 </a>
 <a href="https://sreekaran.com/li">
-    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/logo-linkedin.svg" style="color:#007bff !important" />
+    <img align="left" width="24px" src="./linkedin.svg"/>
 </a>
 <a href="mailto:hi@sreekaran.com">
-    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/send-outline.svg" style="color:#007bff !important" />
+    <img align="left" width="24px" src="./mail.svg"/>
 </a>
 <a href="https://sreekaran.com/ig">
-    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/ionicons@5.5.1/dist/ionicons/svg/logo-instagram.svg" style="color:#007bff !important" />
+    <img align="left" width="24px" src="./instagram.svg"/>
 </a>
 <br> 
 
