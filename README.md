@@ -142,5 +142,3 @@ Here are some ideas to get you started:
 [linkedin]: https://sreekaran.com/li
 [instagram]: https://sreekaran.com/ig
 [discord]: https://discord.gg/UHjrpmAsnY
-
-[<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=sreekaransrinath.sreekaransrinath" />][website]
